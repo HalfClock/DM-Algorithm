@@ -1,2 +1,2 @@
-# DM-Algorithm-
+# DM-Algorithm
 data mining algorithm Exercise
